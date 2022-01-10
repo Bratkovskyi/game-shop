@@ -1,0 +1,7 @@
+.game-buy {
+    margin-right: 5px;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+}

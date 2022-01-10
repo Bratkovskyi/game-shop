@@ -1,0 +1,22 @@
+.cart-block{
+    display: flex;
+    align-items: center;
+    position: relative;
+    transition: 0.5s;
+}
+.cart-block__icon{
+    cursor: pointer;
+    position: relative;
+}
+.cart-block__total-price{
+    margin-left: 15px;
+    font-style: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.cart-block:hover {
+    transition: 0.5s;
+    color: rgb(134 173 114);
+}
+
